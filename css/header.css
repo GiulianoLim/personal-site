@@ -21,7 +21,7 @@ nav {
   font-weight: 700;
   max-width: 400px;
   flex: 1;
-  color:  #251749;
+  color: #251749;
   cursor: pointer;
   transition: color 0.15s;
   min-width: 180px;
@@ -35,6 +35,6 @@ nav {
 
 .logo-header {
   width: 150px;
-  padding-left: 30%;
   padding-right: 150px;
+  padding-left: 30%;
 }
